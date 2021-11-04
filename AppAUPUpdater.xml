@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.0.0.0</version>
-    <url></url>
+    <url>https://github.com/lemalcs/WpfAppAUPNew/releases/download/v2.0.0.0/WpfAppAUP-2.0.0.0.zip</url>
     <args>/SP- /silent /noicons /NOCANCEL /dir="%path%"</args>
     <changelog>https://github.com/lemalcs/WpfAppAUPNew</changelog>
     <mandatory>true</mandatory>
